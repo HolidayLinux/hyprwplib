@@ -1,11 +1,10 @@
-use std::fmt::Display;
+use std::{error::Error, fmt::Display};
 
-#[derive(Debug, Clone, Display)]
+#[derive(Debug, Clone)]
 pub struct NotCorrectPathError;
 
-impl Display for NotCorrectPathError {
+impl Error for NotCorrectPathError {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        let mut m = Vec::new();
-        write!(&mut m, "Not correct path.")
+        write!(f, "Not correct path.")
     }
 }
