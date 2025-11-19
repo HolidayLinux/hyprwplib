@@ -2,16 +2,16 @@
 /// Width, Height.
 #[derive(Clone, Debug)]
 pub struct CompressedSize {
-    width: f32,
-    height: f32,
+    pub width: f32,
+    pub height: f32,
 }
 
 /// Options for compressor.
 #[derive(Clone, Debug)]
 pub struct CompressorOptions {
-    compressed_size: CompressedSize,
-    temp_files_directory: String,
-    save_temp_files: bool,
+    pub compressed_size: CompressedSize,
+    pub temp_files_directory: String,
+    pub save_temp_files: bool,
 }
 
 impl CompressorOptions {
