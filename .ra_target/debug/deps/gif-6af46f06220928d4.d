@@ -1,0 +1,12 @@
+/home/holiday/Projects/Rust/hyprwplib/.ra_target/debug/deps/gif-6af46f06220928d4.d: /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/lib.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/common.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/encoder.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/reader/mod.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/reader/converter.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/reader/decoder.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/traits.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/../README.md
+
+/home/holiday/Projects/Rust/hyprwplib/.ra_target/debug/deps/libgif-6af46f06220928d4.rmeta: /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/lib.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/common.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/encoder.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/reader/mod.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/reader/converter.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/reader/decoder.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/traits.rs /home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/../README.md
+
+/home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/lib.rs:
+/home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/common.rs:
+/home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/encoder.rs:
+/home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/reader/mod.rs:
+/home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/reader/converter.rs:
+/home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/reader/decoder.rs:
+/home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/traits.rs:
+/home/holiday/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.14.0/src/../README.md:
